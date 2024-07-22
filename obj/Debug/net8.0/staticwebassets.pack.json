@@ -1,0 +1,949 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/obj/Debug/net8.0/scopedcss/projectbundle/aznews.bundle.scp.css",
+      "PackagePath": "staticwebassets/aznews.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/css/animate.min.css",
+      "PackagePath": "staticwebassets/assets/css/animate.min.css"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/assets/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/css/flaticon.css",
+      "PackagePath": "staticwebassets/assets/css/flaticon.css"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/css/fontawesome-all.min.css",
+      "PackagePath": "staticwebassets/assets/css/fontawesome-all.min.css"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/css/gijgo.css",
+      "PackagePath": "staticwebassets/assets/css/gijgo.css"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/css/magnific-popup.css",
+      "PackagePath": "staticwebassets/assets/css/magnific-popup.css"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/css/main.css",
+      "PackagePath": "staticwebassets/assets/css/main.css"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/css/main.map",
+      "PackagePath": "staticwebassets/assets/css/main.map"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/css/nice-select.css",
+      "PackagePath": "staticwebassets/assets/css/nice-select.css"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/css/owl.carousel.min.css",
+      "PackagePath": "staticwebassets/assets/css/owl.carousel.min.css"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/css/responsive.css",
+      "PackagePath": "staticwebassets/assets/css/responsive.css"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/css/slick.css",
+      "PackagePath": "staticwebassets/assets/css/slick.css"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/css/slicknav.css",
+      "PackagePath": "staticwebassets/assets/css/slicknav.css"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/css/style.css",
+      "PackagePath": "staticwebassets/assets/css/style.css"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/css/style.map",
+      "PackagePath": "staticwebassets/assets/css/style.map"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/css/themify-icons.css",
+      "PackagePath": "staticwebassets/assets/css/themify-icons.css"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/css/ticker-style.css",
+      "PackagePath": "staticwebassets/assets/css/ticker-style.css"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/fonts/Flaticon.eot",
+      "PackagePath": "staticwebassets/assets/fonts/Flaticon.eot"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/fonts/Flaticon.svg",
+      "PackagePath": "staticwebassets/assets/fonts/Flaticon.svg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/fonts/Flaticon.ttf",
+      "PackagePath": "staticwebassets/assets/fonts/Flaticon.ttf"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/fonts/Flaticon.woff",
+      "PackagePath": "staticwebassets/assets/fonts/Flaticon.woff"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/fonts/Flaticon.woff2",
+      "PackagePath": "staticwebassets/assets/fonts/Flaticon.woff2"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/fonts/fa-brands-400.eot",
+      "PackagePath": "staticwebassets/assets/fonts/fa-brands-400.eot"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/fonts/fa-brands-400.svg",
+      "PackagePath": "staticwebassets/assets/fonts/fa-brands-400.svg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/fonts/fa-brands-400.ttf",
+      "PackagePath": "staticwebassets/assets/fonts/fa-brands-400.ttf"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/fonts/fa-brands-400.woff",
+      "PackagePath": "staticwebassets/assets/fonts/fa-brands-400.woff"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/fonts/fa-brands-400.woff2",
+      "PackagePath": "staticwebassets/assets/fonts/fa-brands-400.woff2"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/fonts/fa-regular-400.eot",
+      "PackagePath": "staticwebassets/assets/fonts/fa-regular-400.eot"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/fonts/fa-regular-400.svg",
+      "PackagePath": "staticwebassets/assets/fonts/fa-regular-400.svg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/fonts/fa-regular-400.ttf",
+      "PackagePath": "staticwebassets/assets/fonts/fa-regular-400.ttf"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/fonts/fa-regular-400.woff",
+      "PackagePath": "staticwebassets/assets/fonts/fa-regular-400.woff"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/fonts/fa-regular-400.woff2",
+      "PackagePath": "staticwebassets/assets/fonts/fa-regular-400.woff2"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/fonts/fa-solid-900.eot",
+      "PackagePath": "staticwebassets/assets/fonts/fa-solid-900.eot"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/fonts/fa-solid-900.svg",
+      "PackagePath": "staticwebassets/assets/fonts/fa-solid-900.svg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/fonts/fa-solid-900.ttf",
+      "PackagePath": "staticwebassets/assets/fonts/fa-solid-900.ttf"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/fonts/fa-solid-900.woff",
+      "PackagePath": "staticwebassets/assets/fonts/fa-solid-900.woff"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/fonts/fa-solid-900.woff2",
+      "PackagePath": "staticwebassets/assets/fonts/fa-solid-900.woff2"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/fonts/flaticon.css",
+      "PackagePath": "staticwebassets/assets/fonts/flaticon.css"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/fonts/flaticon.html",
+      "PackagePath": "staticwebassets/assets/fonts/flaticon.html"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/fonts/themify.eot",
+      "PackagePath": "staticwebassets/assets/fonts/themify.eot"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/fonts/themify.svg",
+      "PackagePath": "staticwebassets/assets/fonts/themify.svg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/fonts/themify.ttf",
+      "PackagePath": "staticwebassets/assets/fonts/themify.ttf"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/fonts/themify.woff",
+      "PackagePath": "staticwebassets/assets/fonts/themify.woff"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/about/about_lft.png",
+      "PackagePath": "staticwebassets/assets/img/about/about_lft.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/about/about_right.png",
+      "PackagePath": "staticwebassets/assets/img/about/about_right.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/about/pet_care.png",
+      "PackagePath": "staticwebassets/assets/img/about/pet_care.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/adapt_icon/1.png",
+      "PackagePath": "staticwebassets/assets/img/adapt_icon/1.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/adapt_icon/1.svg",
+      "PackagePath": "staticwebassets/assets/img/adapt_icon/1.svg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/adapt_icon/2.png",
+      "PackagePath": "staticwebassets/assets/img/adapt_icon/2.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/adapt_icon/3.png",
+      "PackagePath": "staticwebassets/assets/img/adapt_icon/3.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/banner/dog.png",
+      "PackagePath": "staticwebassets/assets/img/banner/dog.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/banner/img.png",
+      "PackagePath": "staticwebassets/assets/img/banner/img.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/blog/author.png",
+      "PackagePath": "staticwebassets/assets/img/blog/author.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/blog/blog_4.png",
+      "PackagePath": "staticwebassets/assets/img/blog/blog_4.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/blog/learn_about_bg.png",
+      "PackagePath": "staticwebassets/assets/img/blog/learn_about_bg.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/blog/single_blog_1.png",
+      "PackagePath": "staticwebassets/assets/img/blog/single_blog_1.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/blog/single_blog_2.png",
+      "PackagePath": "staticwebassets/assets/img/blog/single_blog_2.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/blog/single_blog_3.png",
+      "PackagePath": "staticwebassets/assets/img/blog/single_blog_3.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/blog/single_blog_4.png",
+      "PackagePath": "staticwebassets/assets/img/blog/single_blog_4.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/blog/single_blog_5.png",
+      "PackagePath": "staticwebassets/assets/img/blog/single_blog_5.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/blog/slide_thumb_1.png",
+      "PackagePath": "staticwebassets/assets/img/blog/slide_thumb_1.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/comment/comment_1.png",
+      "PackagePath": "staticwebassets/assets/img/comment/comment_1.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/comment/comment_2.png",
+      "PackagePath": "staticwebassets/assets/img/comment/comment_2.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/comment/comment_3.png",
+      "PackagePath": "staticwebassets/assets/img/comment/comment_3.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/elements/a.jpg",
+      "PackagePath": "staticwebassets/assets/img/elements/a.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/elements/a2.jpg",
+      "PackagePath": "staticwebassets/assets/img/elements/a2.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/elements/d.jpg",
+      "PackagePath": "staticwebassets/assets/img/elements/d.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/elements/disabled-check.png",
+      "PackagePath": "staticwebassets/assets/img/elements/disabled-check.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/elements/disabled-radio.png",
+      "PackagePath": "staticwebassets/assets/img/elements/disabled-radio.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/elements/f1.jpg",
+      "PackagePath": "staticwebassets/assets/img/elements/f1.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/elements/f2.jpg",
+      "PackagePath": "staticwebassets/assets/img/elements/f2.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/elements/f3.jpg",
+      "PackagePath": "staticwebassets/assets/img/elements/f3.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/elements/f4.jpg",
+      "PackagePath": "staticwebassets/assets/img/elements/f4.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/elements/f5.jpg",
+      "PackagePath": "staticwebassets/assets/img/elements/f5.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/elements/f6.jpg",
+      "PackagePath": "staticwebassets/assets/img/elements/f6.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/elements/f7.jpg",
+      "PackagePath": "staticwebassets/assets/img/elements/f7.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/elements/f8.jpg",
+      "PackagePath": "staticwebassets/assets/img/elements/f8.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/elements/g1.jpg",
+      "PackagePath": "staticwebassets/assets/img/elements/g1.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/elements/g2.jpg",
+      "PackagePath": "staticwebassets/assets/img/elements/g2.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/elements/g3.jpg",
+      "PackagePath": "staticwebassets/assets/img/elements/g3.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/elements/g4.jpg",
+      "PackagePath": "staticwebassets/assets/img/elements/g4.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/elements/g5.jpg",
+      "PackagePath": "staticwebassets/assets/img/elements/g5.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/elements/g6.jpg",
+      "PackagePath": "staticwebassets/assets/img/elements/g6.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/elements/g7.jpg",
+      "PackagePath": "staticwebassets/assets/img/elements/g7.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/elements/g8.jpg",
+      "PackagePath": "staticwebassets/assets/img/elements/g8.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/elements/primary-check.png",
+      "PackagePath": "staticwebassets/assets/img/elements/primary-check.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/elements/primary-radio.png",
+      "PackagePath": "staticwebassets/assets/img/elements/primary-radio.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/elements/success-check.png",
+      "PackagePath": "staticwebassets/assets/img/elements/success-check.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/elements/success-radio.png",
+      "PackagePath": "staticwebassets/assets/img/elements/success-radio.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/favicon.ico",
+      "PackagePath": "staticwebassets/assets/img/favicon.ico"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/gallery/1.png",
+      "PackagePath": "staticwebassets/assets/img/gallery/1.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/gallery/2.png",
+      "PackagePath": "staticwebassets/assets/img/gallery/2.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/gallery/3.png",
+      "PackagePath": "staticwebassets/assets/img/gallery/3.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/hero/h1_hero.jpg",
+      "PackagePath": "staticwebassets/assets/img/hero/h1_hero.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/hero/header_card.jpg",
+      "PackagePath": "staticwebassets/assets/img/hero/header_card.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/icon/header_icon1.png",
+      "PackagePath": "staticwebassets/assets/img/icon/header_icon1.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/icon/header_icon2.png",
+      "PackagePath": "staticwebassets/assets/img/icon/header_icon2.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/logo/form-iocn.jpg",
+      "PackagePath": "staticwebassets/assets/img/logo/form-iocn.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/logo/form-iocn.png",
+      "PackagePath": "staticwebassets/assets/img/logo/form-iocn.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/logo/logo.png",
+      "PackagePath": "staticwebassets/assets/img/logo/logo.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/logo/logo2_footer.png",
+      "PackagePath": "staticwebassets/assets/img/logo/logo2_footer.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/news/icon-fb.png",
+      "PackagePath": "staticwebassets/assets/img/news/icon-fb.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/news/icon-ins.png",
+      "PackagePath": "staticwebassets/assets/img/news/icon-ins.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/news/icon-tw.png",
+      "PackagePath": "staticwebassets/assets/img/news/icon-tw.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/news/icon-yo.png",
+      "PackagePath": "staticwebassets/assets/img/news/icon-yo.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/news/news_card.jpg",
+      "PackagePath": "staticwebassets/assets/img/news/news_card.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/news/recent1.jpg",
+      "PackagePath": "staticwebassets/assets/img/news/recent1.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/news/recent2.jpg",
+      "PackagePath": "staticwebassets/assets/img/news/recent2.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/news/recent3.jpg",
+      "PackagePath": "staticwebassets/assets/img/news/recent3.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/news/video_overly1.jpg",
+      "PackagePath": "staticwebassets/assets/img/news/video_overly1.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/news/weekly2News1.jpg",
+      "PackagePath": "staticwebassets/assets/img/news/weekly2News1.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/news/weekly2News2.jpg",
+      "PackagePath": "staticwebassets/assets/img/news/weekly2News2.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/news/weekly2News3.jpg",
+      "PackagePath": "staticwebassets/assets/img/news/weekly2News3.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/news/weekly2News4.jpg",
+      "PackagePath": "staticwebassets/assets/img/news/weekly2News4.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/news/weeklyNews1.jpg",
+      "PackagePath": "staticwebassets/assets/img/news/weeklyNews1.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/news/weeklyNews2.jpg",
+      "PackagePath": "staticwebassets/assets/img/news/weeklyNews2.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/news/weeklyNews3.jpg",
+      "PackagePath": "staticwebassets/assets/img/news/weeklyNews3.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/news/whatNews1.jpg",
+      "PackagePath": "staticwebassets/assets/img/news/whatNews1.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/news/whatNews2.jpg",
+      "PackagePath": "staticwebassets/assets/img/news/whatNews2.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/news/whatNews3.jpg",
+      "PackagePath": "staticwebassets/assets/img/news/whatNews3.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/news/whatNews4.jpg",
+      "PackagePath": "staticwebassets/assets/img/news/whatNews4.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/offers/1.png",
+      "PackagePath": "staticwebassets/assets/img/offers/1.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/offers/2.png",
+      "PackagePath": "staticwebassets/assets/img/offers/2.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/offers/3.png",
+      "PackagePath": "staticwebassets/assets/img/offers/3.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/our_blog/blog-img1.jpg",
+      "PackagePath": "staticwebassets/assets/img/our_blog/blog-img1.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/post/about_heor.jpg",
+      "PackagePath": "staticwebassets/assets/img/post/about_heor.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/post/instra1.jpg",
+      "PackagePath": "staticwebassets/assets/img/post/instra1.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/post/instra2.jpg",
+      "PackagePath": "staticwebassets/assets/img/post/instra2.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/post/instra3.jpg",
+      "PackagePath": "staticwebassets/assets/img/post/instra3.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/post/instra4.jpg",
+      "PackagePath": "staticwebassets/assets/img/post/instra4.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/post/instra5.jpg",
+      "PackagePath": "staticwebassets/assets/img/post/instra5.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/post/instra6.jpg",
+      "PackagePath": "staticwebassets/assets/img/post/instra6.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/post/next.png",
+      "PackagePath": "staticwebassets/assets/img/post/next.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/post/post_1.png",
+      "PackagePath": "staticwebassets/assets/img/post/post_1.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/post/post_10.png",
+      "PackagePath": "staticwebassets/assets/img/post/post_10.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/post/post_2.png",
+      "PackagePath": "staticwebassets/assets/img/post/post_2.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/post/post_3.png",
+      "PackagePath": "staticwebassets/assets/img/post/post_3.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/post/post_4.png",
+      "PackagePath": "staticwebassets/assets/img/post/post_4.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/post/post_5.png",
+      "PackagePath": "staticwebassets/assets/img/post/post_5.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/post/post_6.png",
+      "PackagePath": "staticwebassets/assets/img/post/post_6.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/post/post_7.png",
+      "PackagePath": "staticwebassets/assets/img/post/post_7.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/post/post_8.png",
+      "PackagePath": "staticwebassets/assets/img/post/post_8.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/post/post_9.png",
+      "PackagePath": "staticwebassets/assets/img/post/post_9.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/post/preview.png",
+      "PackagePath": "staticwebassets/assets/img/post/preview.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/prising/1.png",
+      "PackagePath": "staticwebassets/assets/img/prising/1.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/prising/10.png",
+      "PackagePath": "staticwebassets/assets/img/prising/10.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/prising/2.png",
+      "PackagePath": "staticwebassets/assets/img/prising/2.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/prising/3.png",
+      "PackagePath": "staticwebassets/assets/img/prising/3.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/prising/4.png",
+      "PackagePath": "staticwebassets/assets/img/prising/4.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/prising/5.png",
+      "PackagePath": "staticwebassets/assets/img/prising/5.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/prising/6.png",
+      "PackagePath": "staticwebassets/assets/img/prising/6.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/prising/7.png",
+      "PackagePath": "staticwebassets/assets/img/prising/7.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/prising/8.png",
+      "PackagePath": "staticwebassets/assets/img/prising/8.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/prising/9.png",
+      "PackagePath": "staticwebassets/assets/img/prising/9.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/service/1.png",
+      "PackagePath": "staticwebassets/assets/img/service/1.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/service/2.png",
+      "PackagePath": "staticwebassets/assets/img/service/2.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/service/3.png",
+      "PackagePath": "staticwebassets/assets/img/service/3.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/service/completed_case_1.png",
+      "PackagePath": "staticwebassets/assets/img/service/completed_case_1.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/service/completed_case_2.png",
+      "PackagePath": "staticwebassets/assets/img/service/completed_case_2.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/service/completed_case_3.png",
+      "PackagePath": "staticwebassets/assets/img/service/completed_case_3.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/service/completed_case_4.png",
+      "PackagePath": "staticwebassets/assets/img/service/completed_case_4.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/service/completed_case_5.png",
+      "PackagePath": "staticwebassets/assets/img/service/completed_case_5.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/service/completed_case_6.png",
+      "PackagePath": "staticwebassets/assets/img/service/completed_case_6.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/service/service_icon_1.png",
+      "PackagePath": "staticwebassets/assets/img/service/service_icon_1.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/service/service_icon_2.png",
+      "PackagePath": "staticwebassets/assets/img/service/service_icon_2.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/service/service_icon_3.png",
+      "PackagePath": "staticwebassets/assets/img/service/service_icon_3.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/service/service_icon_bg_1.png",
+      "PackagePath": "staticwebassets/assets/img/service/service_icon_bg_1.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/service/services_bg.png",
+      "PackagePath": "staticwebassets/assets/img/service/services_bg.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/team/1.png",
+      "PackagePath": "staticwebassets/assets/img/team/1.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/team/2.png",
+      "PackagePath": "staticwebassets/assets/img/team/2.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/team/3.png",
+      "PackagePath": "staticwebassets/assets/img/team/3.png"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/trending/right1.jpg",
+      "PackagePath": "staticwebassets/assets/img/trending/right1.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/trending/right2.jpg",
+      "PackagePath": "staticwebassets/assets/img/trending/right2.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/trending/right3.jpg",
+      "PackagePath": "staticwebassets/assets/img/trending/right3.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/trending/right4.jpg",
+      "PackagePath": "staticwebassets/assets/img/trending/right4.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/trending/right5.jpg",
+      "PackagePath": "staticwebassets/assets/img/trending/right5.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/trending/trending_bottom1.jpg",
+      "PackagePath": "staticwebassets/assets/img/trending/trending_bottom1.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/trending/trending_bottom2.jpg",
+      "PackagePath": "staticwebassets/assets/img/trending/trending_bottom2.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/trending/trending_bottom3.jpg",
+      "PackagePath": "staticwebassets/assets/img/trending/trending_bottom3.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/img/trending/trending_top.jpg",
+      "PackagePath": "staticwebassets/assets/img/trending/trending_top.jpg"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/js/animated.headline.js",
+      "PackagePath": "staticwebassets/assets/js/animated.headline.js"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/assets/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/js/contact.js",
+      "PackagePath": "staticwebassets/assets/js/contact.js"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/js/gijgo.min.js",
+      "PackagePath": "staticwebassets/assets/js/gijgo.min.js"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/js/jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets/assets/js/jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/js/jquery.form.js",
+      "PackagePath": "staticwebassets/assets/js/jquery.form.js"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/js/jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets/assets/js/jquery.magnific-popup.js"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/js/jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets/assets/js/jquery.nice-select.min.js"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/js/jquery.paroller.min.js",
+      "PackagePath": "staticwebassets/assets/js/jquery.paroller.min.js"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/js/jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets/assets/js/jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/js/jquery.slicknav.min.js",
+      "PackagePath": "staticwebassets/assets/js/jquery.slicknav.min.js"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/js/jquery.sticky.js",
+      "PackagePath": "staticwebassets/assets/js/jquery.sticky.js"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/js/jquery.ticker.js",
+      "PackagePath": "staticwebassets/assets/js/jquery.ticker.js"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/js/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/assets/js/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/js/mail-script.js",
+      "PackagePath": "staticwebassets/assets/js/mail-script.js"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/js/main.js",
+      "PackagePath": "staticwebassets/assets/js/main.js"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/js/one-page-nav-min.js",
+      "PackagePath": "staticwebassets/assets/js/one-page-nav-min.js"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/js/owl.carousel.min.js",
+      "PackagePath": "staticwebassets/assets/js/owl.carousel.min.js"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/js/plugins.js",
+      "PackagePath": "staticwebassets/assets/js/plugins.js"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/js/popper.min.js",
+      "PackagePath": "staticwebassets/assets/js/popper.min.js"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/js/site.js",
+      "PackagePath": "staticwebassets/assets/js/site.js"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/js/slick.min.js",
+      "PackagePath": "staticwebassets/assets/js/slick.min.js"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/js/vendor/jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets/assets/js/vendor/jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/js/vendor/modernizr-3.5.0.min.js",
+      "PackagePath": "staticwebassets/assets/js/vendor/modernizr-3.5.0.min.js"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/js/wow.min.js",
+      "PackagePath": "staticwebassets/assets/js/wow.min.js"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/scss/_about-page.scss",
+      "PackagePath": "staticwebassets/assets/scss/_about-page.scss"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/scss/_blog.scss",
+      "PackagePath": "staticwebassets/assets/scss/_blog.scss"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/scss/_blog_page.scss",
+      "PackagePath": "staticwebassets/assets/scss/_blog_page.scss"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/scss/_bradcam.scss",
+      "PackagePath": "staticwebassets/assets/scss/_bradcam.scss"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/scss/_color.scss",
+      "PackagePath": "staticwebassets/assets/scss/_color.scss"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/scss/_common.scss",
+      "PackagePath": "staticwebassets/assets/scss/_common.scss"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/scss/_completed-cases.scss",
+      "PackagePath": "staticwebassets/assets/scss/_completed-cases.scss"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/scss/_contact.scss",
+      "PackagePath": "staticwebassets/assets/scss/_contact.scss"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/scss/_elements.scss",
+      "PackagePath": "staticwebassets/assets/scss/_elements.scss"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/scss/_extend.scss",
+      "PackagePath": "staticwebassets/assets/scss/_extend.scss"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/scss/_footer.scss",
+      "PackagePath": "staticwebassets/assets/scss/_footer.scss"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/scss/_headerMenu.scss",
+      "PackagePath": "staticwebassets/assets/scss/_headerMenu.scss"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/scss/_mixins.scss",
+      "PackagePath": "staticwebassets/assets/scss/_mixins.scss"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/scss/_overlay.scss",
+      "PackagePath": "staticwebassets/assets/scss/_overlay.scss"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/scss/_recent-articles.scss",
+      "PackagePath": "staticwebassets/assets/scss/_recent-articles.scss"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/scss/_services.scss",
+      "PackagePath": "staticwebassets/assets/scss/_services.scss"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/scss/_services_section.scss",
+      "PackagePath": "staticwebassets/assets/scss/_services_section.scss"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/scss/_team.scss",
+      "PackagePath": "staticwebassets/assets/scss/_team.scss"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/scss/_testimonial.scss",
+      "PackagePath": "staticwebassets/assets/scss/_testimonial.scss"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/scss/_trending.scss",
+      "PackagePath": "staticwebassets/assets/scss/_trending.scss"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/scss/_variables.scss",
+      "PackagePath": "staticwebassets/assets/scss/_variables.scss"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/scss/_wecky-new.scss",
+      "PackagePath": "staticwebassets/assets/scss/_wecky-new.scss"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/scss/_wecky2-new.scss",
+      "PackagePath": "staticwebassets/assets/scss/_wecky2-new.scss"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/scss/_whats-new.scss",
+      "PackagePath": "staticwebassets/assets/scss/_whats-new.scss"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/scss/_youtube.scss",
+      "PackagePath": "staticwebassets/assets/scss/_youtube.scss"
+    },
+    {
+      "Id": "/Users/admin/DEV/mvc8/aznews/wwwroot/assets/scss/style.scss",
+      "PackagePath": "staticwebassets/assets/scss/style.scss"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.aznews.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.aznews.props",
+      "PackagePath": "build\\aznews.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.aznews.props",
+      "PackagePath": "buildMultiTargeting\\aznews.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.aznews.props",
+      "PackagePath": "buildTransitive\\aznews.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
