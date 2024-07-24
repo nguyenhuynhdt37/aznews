@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 using Pomelo.EntityFrameworkCore.MySql.Scaffolding.Internal;
-
+using aznews.Areas.Admin.Models;
 namespace aznews.Models;
 
 public partial class MyDbContext : DbContext
@@ -16,6 +16,7 @@ public partial class MyDbContext : DbContext
     {
     }
 
-    public virtual DbSet<TblMenu> TblMenus { get; set; }
-    public virtual DbSet<TblPost> TblPosts { get; set; }
+    public DbSet<TblMenu> TblMenus { get; set; }
+    public DbSet<TblPost> TblPosts { get; set; }
+    public DbSet<AdminMenu> AdminMenus { get; set; }
 }

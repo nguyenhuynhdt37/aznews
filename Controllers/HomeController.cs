@@ -32,7 +32,7 @@ public class HomeController : Controller
         return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
     }
 
-    [Route("/post-{abc}-{id:long}", Name = "Details")]
+    [Route("/post-{abc}-{id:long}.html", Name = "Details")]
     public async Task<IActionResult> Details(long? id)
     {
         if (id == null) return NotFound();
