@@ -19,4 +19,5 @@ public partial class MyDbContext : DbContext
     public DbSet<TblMenu> TblMenus { get; set; }
     public DbSet<TblPost> TblPosts { get; set; }
     public DbSet<AdminMenu> AdminMenus { get; set; }
+    public DbSet<AdminUsers> AdminUsers { get; set; }
 }

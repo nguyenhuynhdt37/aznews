@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/admin/DEV/mvc8/aznews/aznews.csproj": {}
+    "D:\\mvc\\aznews\\aznews.csproj": {}
   },
   "projects": {
-    "/Users/admin/DEV/mvc8/aznews/aznews.csproj": {
+    "D:\\mvc\\aznews\\aznews.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/admin/DEV/mvc8/aznews/aznews.csproj",
+        "projectUniqueName": "D:\\mvc\\aznews\\aznews.csproj",
         "projectName": "aznews",
-        "projectPath": "/Users/admin/DEV/mvc8/aznews/aznews.csproj",
-        "packagesPath": "/Users/admin/.nuget/packages/",
-        "outputPath": "/Users/admin/DEV/mvc8/aznews/obj/",
+        "projectPath": "D:\\mvc\\aznews\\aznews.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\mvc\\aznews\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/admin/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -67,6 +67,10 @@
               "target": "Package",
               "version": "[8.0.3, )"
             },
+            "PagedList.Core.Mvc": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
               "version": "[8.0.2, )"
@@ -74,6 +78,10 @@
             "SlugGenerator": {
               "target": "Package",
               "version": "[2.0.2, )"
+            },
+            "elFinder.NetCore": {
+              "target": "Package",
+              "version": "[1.4.0, )"
             }
           },
           "imports": [
@@ -95,7 +103,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

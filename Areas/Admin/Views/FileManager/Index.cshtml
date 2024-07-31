@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- Sử dụng CDN để tải jQuery UI CSS -->
+    <link href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css" rel="stylesheet" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/elfinder/2.1.59/css/elfinder.full.css" rel="stylesheet" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/elfinder/2.1.59/css/theme.css" rel="stylesheet" />
+
+    <!-- Sử dụng CDN để tải jQuery, jQuery UI và elFinder JS -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/elfinder/2.1.59/js/elfinder.min.js"></script>
+</head>
+
+<body>
+    <main id="main" class="main">
+        <div id="elfinder"></div>
+        <section class="section dashboard">
+            <script type="text/javascript">
+                $(document).ready(function () {
+                    var myCommands = elFinder.prototype._options.commands;
+                    var disabled = ["callback", "chmod", "editor", "netmount", "ping", "search", "zipdl", "help"];
+                    $.each(disabled, function (i, cmd) {
+                        (idx = $.inArray(cmd, myCommands)) !== -1 && myCommands.splice(idx, 1);
+                    });
+                    var options = {
+                        baseUrl: "@Url.Content("~/admin/lib/elFinder/")",
+                        url: "@Url.Action("Connector")",
+                        rememberLastDir: false,
+                        commands: myCommands,
+                        uiOptions: {
+                            toolbar: [
+                                ["back", "forward"],
+                                ["reload"],
+                                ["home", "up"],
+                                ["mkdir", "mkfile", "upload"],
+                                ["open", "download"],
+                                ["undo", "redo"],
+                                ["info"],
+                                ["quicklook"],
+                                ["copy", "cut", "paste"],
+                                ["duplicate", "rename", "edit"],
+                                ["selectall", "selectnone", "selectinvert"],
+                                ["view", "sort"]
+                            ]
+                        },
+                        lang: "en"
+                    };
+                    $("#elfinder").elfinder(options).elfinder("instance");
+                });
+            </script>
+        </section>
+    </main>
+</body>
+
+</html>

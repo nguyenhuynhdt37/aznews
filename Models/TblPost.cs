@@ -30,5 +30,4 @@ public partial class TblPost
 
     public int? MenuId { get; set; }
 
-    public virtual TblMenu? Menu { get; set; }
 }

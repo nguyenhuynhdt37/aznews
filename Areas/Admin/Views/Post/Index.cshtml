@@ -1,0 +1,61 @@
+@using aznews.Models;
+@using PagedList.Core.Mvc;
+@using PagedList.Core
+@model PagedList<TblPost>
+
+<main class="main pt-5">
+    <div class="pagetitle">
+        <h2>List of Posts</h2>
+    </div>
+    <div class="row">
+        <div class="col-4">
+            <a type="button" class="btn btn-success" asp-area="Admin" asp-controller="Post" asp-action="Create">
+                <i class="bi bi-file-earmark-text me-1"></i>Add a new post
+            </a>
+        </div>
+    </div>
+    <section class="section dashboard">
+        <div class="row">
+            <div class="col-12">
+                <div class="card recent-sales overflow-auto">
+                    <div class="card-body pt-4">
+                        <table class="table table-borderless datatable">
+                            <thead>
+                                <tr>
+                                    <th class="col-1 text-center">PostID</th>
+                                    <th class="col-9 text-left">Title</th>
+                                    <th class="col-2 text-center">Functions</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model)
+                                {
+                                    <tr>
+                                        <td class="text-center" scope="row">@item.PostId</td>
+                                        <td class="text-left text-primary" scope="row">
+                                            <a asp-controller="Post" asp-action="Details"
+                                                asp-route-id="@item.PostId">@item.Title</a>
+                                        </td>
+                                        <td class="text-center" scope="row">
+                                            <a asp-area="Admin" asp-controller="Post" asp-action="Edit"
+                                                asp-route-id="@item.PostId" class="btn btn-primary btn-sm"
+                                                title="Edit the post">
+                                                <i class="bi bi-pencil"></i>
+                                            </a>
+                                            <a asp-area="Admin" asp-controller="Post" asp-action="Delete"
+                                                asp-route-id="@item.PostId" class="btn btn-danger btn-sm"
+                                                title="Delete the post">
+                                                <i class="bi bi-trash"></i>
+                                            </a>
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+</main>
